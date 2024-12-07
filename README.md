@@ -6,8 +6,7 @@ I'm a passionate Full Stack Software Engineer with a major in Computer Science a
 - 💻 Currently working on several exciting projects
 - 🎨 Combining the best of code and design
 - 📚 Avid reader
-- 🧶 Crochet enthusiast
-- 🧘‍♀️ Yoga practitioner
+
 
 Feel free to check out my repositories and get in touch!
 
