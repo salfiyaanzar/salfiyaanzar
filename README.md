@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [GhibliClimate](https://github.com/salfiyaanzar/ghibliclimatechange-awareness)
 
-- 🌱 I’m currently learning **NextJS, TailwindCSS**
+- 🌱 I’m currently learning **AWS*
 
 - 👯 I’m looking to collaborate on **fun projects!**
 
