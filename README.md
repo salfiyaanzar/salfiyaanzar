@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://twitter.com/traschcannot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="traschcannot" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/salfiya-anzar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salfiya-anzar" height="30" width="40" /></a>
-<a href="https://instagram.com/bamhurgers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bamhurgers" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/salfiya1509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salfiya1509" height="30" width="40" /></a>
 <a href="https://discord.gg/saff4you" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="saff4you" height="30" width="40" /></a>
 </p>
