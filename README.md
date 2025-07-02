@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **fun projects!**
 
-- 👨‍💻 All of my projects are available at [https://salfiya-portfolio.vercel.app/](https://salfiya-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [salfiya.sh/](salfiya.sh)
 
 - 📫 How to reach me **salfiyaanzar@gmail.com or @traschcannot on x**
 
