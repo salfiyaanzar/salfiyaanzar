@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **fun projects!**
 
-- 👨‍💻 All of my projects are available at [salfiya.sh](salfiya.sh)
+- 👨‍💻 All of my projects are available at [salfiya.sh](https://salfiya.sh/)
 
 - 💬 Ask me about **react, nextjs & nestjs**
 
