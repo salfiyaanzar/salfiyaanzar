@@ -1,4 +1,4 @@
-<h1 align="center">Hi (˶• ֊ •˶) , I'm Salfiya Anzar</h1>
+<h1 align="center">ᢉ𐭩 𐔌 Salfiya ꒱</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
 - Currently learning AWS & Infra  
