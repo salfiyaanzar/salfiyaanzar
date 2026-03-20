@@ -1,7 +1,7 @@
 <h1 align="center">ᢉ𐭩 𐔌 Salfiya ꒱</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- ★ Currently learning AWS & Infra  
+- ★ Currently learning AWS & Devops  
 - ★ Interested in backend systems (caching, scaling, data balancing)  
 - ★ Built projects with multiple frontend and backend modules  
 - ★ Experience managing large databases & role-based access control  
